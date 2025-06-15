@@ -1,0 +1,7 @@
+streamlit
+python-escpos 
+pillow
+reportlab
+pandas
+openpyxl
+xlsxwriter
