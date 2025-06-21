@@ -5,3 +5,4 @@ reportlab
 pandas
 openpyxl
 xlsxwriter
+streamlit_google_auth
